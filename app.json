@@ -1,0 +1,12 @@
+{
+  "name": "test-react-navigation-lifecycle",
+  "displayName": "test-react-navigation-lifecycle",
+  "expo": {
+    "name": "test-react-navigation-lifecycle",
+    "slug": "test-react-navigation-lifecycle",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
