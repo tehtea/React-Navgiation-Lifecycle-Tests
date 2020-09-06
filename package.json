@@ -19,11 +19,15 @@
     "react-native-reanimated": "~1.9.0",
     "react-native-screens": "~2.9.0",
     "react-native-unimodules": "~0.10.1",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^3.13.0",
+    "react-navigation-hooks": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
     "babel-jest": "~25.2.6",
+    "eslint": "^7.8.1",
+    "eslint-plugin-react": "^7.20.6",
     "jest": "~25.2.6",
     "react-test-renderer": "~16.11.0"
   },
